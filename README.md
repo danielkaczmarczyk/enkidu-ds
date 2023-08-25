@@ -2,8 +2,11 @@
 
 ## installation
 
-`pip install enkidu_ds`
+`pip install enkidu-ds`
 
+## upgrade
+
+`pip install --upgrade enkidu-ds`
 
 ## usage
 
