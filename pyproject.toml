@@ -18,7 +18,5 @@ classifiers = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/danielkaczmarczyk/enkidu"
-"Bug Tracker" = "https://github.com/danielkaczmarczyk/enkidu/issues"
-
-
+"Homepage" = "https://github.com/danielkaczmarczyk/enkidu-ds"
+"Bug Tracker" = "https://github.com/danielkaczmarczyk/enkidu-ds/issues"
