@@ -4,11 +4,11 @@ build-backend = "hatchling.build"
 
 [project]
 name = "enkidu-ds"
-version = "0.0.2"
+version = "0.0.3"
 authors = [
   { name="Daniel Kaczmarczyk", email="daniel.kacz@protonmail.com" },
 ]
-description = "A small example package"
+description = "Collection of implementations of data structures and algorithms that operate on them"
 readme = "README.md"
 requires-python = ">=3.7"
 classifiers = [
