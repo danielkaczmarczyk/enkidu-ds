@@ -11,6 +11,7 @@
 ## usage
 
 ```python
-from enkidu_ds import binary_tree
-node = binary_tree.TreeNode('A')
+from enkidu_ds import TreeNode
+node = TreeNode('A')
 ```
+
