@@ -14,5 +14,8 @@
 from enkidu_ds import TreeNode
 node = TreeNode('A')
 ```
+## Available Classes
+  - TreeNode
+  - BinaryTree
 
 ## var
