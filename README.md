@@ -15,3 +15,4 @@ from enkidu_ds import TreeNode
 node = TreeNode('A')
 ```
 
+## var
